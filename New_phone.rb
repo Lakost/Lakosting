@@ -1,4 +1,4 @@
-puts "You decided to buy yourself a new phone and before you there is a choice of three phones. Which one do you choose?
+puts "You decided to buy yourself a new phone and before you there is a choice of two phones. Which one do you choose?
 1. Lenovo
 2. Iphone"
 
